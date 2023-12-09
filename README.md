@@ -47,7 +47,7 @@
 
 
 
-<h3 align="center">Language Skills:</h3>  </br>
+<h3 align="center">I am good at:</h3>  </br>
 
 <p align="center">
   <a href="https://skillicons.dev">
