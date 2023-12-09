@@ -30,10 +30,22 @@
 
 <h3 align="center">Statistics:</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanimShahriar&card_width=1000)](https://git.io/streak-stats)
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanimShahriar&card_width=700)](https://git.io/streak-stats)
+  
+</div>
+
+ 
+<div>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimshahriar&show_icons=true&locale=en" alt="tanimshahriar" width="700" /></p>
+  
+</div>
 
 
- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimshahriar&show_icons=true&locale=en" alt="tanimshahriar" width="600" /></p>
+
+
 
 <h3 align="center">Language Skills:</h3>  </br>
 
@@ -43,14 +55,40 @@
   </a>
 </p> </br>
 
-
   
 
 <h3 align="center">Used Languages:</h3>  </br>
 
-  <p align="center"><img align="center" width="600"
+  <p align="center"><img align="center" width="700"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimshahriar&show_icons=true&locale=en&layout=compact"
       alt="tanimshahriar" /></p>
+
+
+<div align="center"> 
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TanimShahriar&theme=blueberry)
+
+  
+</div>
+
+
+<div align="center">
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TanimShahriar&theme=blueberry)   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanimShahriar&theme=blueberry) 
+
+  
+</div>
+
+
+<div align="center">
+
+
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanimShahriar&theme=blueberry)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TanimShahriar&theme=blueberry&utcOffset=8)
+
+  
+</div>
+
+  
 
    
 
