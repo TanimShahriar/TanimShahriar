@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-</head>
-
-<body>
 
 ![logo](https://github.com/TanimShahriar/TanimShahriar/blob/main/github%20Banner.png)
 
@@ -31,7 +22,7 @@
  
 
   <h3 align="center">Connect with me:</h3>
-  <p  align="center">
+  <p align="center">
     <a href="https://linkedin.com/in/tanim shahriar saikot" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="tanim shahriar saikot" height="30" width="40" /></a>
@@ -41,6 +32,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanimShahriar&card_width=1000)](https://git.io/streak-stats)
 
+
+ <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimshahriar&show_icons=true&locale=en" alt="tanimshahriar" width="600" /></p>
+
 <h3 align="center">Language Skills:</h3>  </br>
 
 <p align="center">
@@ -49,15 +43,18 @@
   </a>
 </p> </br>
 
+
+  
+
 <h3 align="center">Used Languages:</h3>  </br>
 
-  <p><img align="center"
+  <p align="center"><img align="center" width="600"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimshahriar&show_icons=true&locale=en&layout=compact"
       alt="tanimshahriar" /></p>
 
- 
-</body>
+   
 
-</html>
+ 
+
 
 
