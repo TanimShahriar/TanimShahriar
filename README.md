@@ -28,6 +28,13 @@
         alt="tanim shahriar saikot" height="30" width="40" /></a>
   </p>
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanim-shahriar-saikot-62a255195" target="_blank"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/linkedin.png" /></a>
+  <a href="https://facebook.com/shahriar.saikot" target="_blank"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/facebook.png" /></a>
+ 
+  
+
 <h3 align="center">Statistics:</h3>
 
 <div align="center">
