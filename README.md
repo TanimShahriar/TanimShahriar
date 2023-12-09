@@ -24,6 +24,7 @@
 
  <p align="center">  - 💬 Ask me about **react, javaScript**</p> <br>
 
+
   <p align="center">  - 📫 Reach me at **https://www.linkedin.com/in/tanim-shahriar-saikot-62a255195/**</p> 
 
  
@@ -35,16 +36,19 @@
         alt="tanim shahriar saikot" height="30" width="40" /></a>
   </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanimShahriar)](https://git.io/streak-stats)
+<h3 align="center">Statistics:</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanimShahriar&card_width=1000)](https://git.io/streak-stats)
+
+<h3 align="center">Skills:</h3>
 
 <p align="center">
-<p><b>Skills</b><p/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,react,tailwind,mongodb,express" />
   </a>
 </p>
 
-  <p><img align="left"
+  <p><img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimshahriar&show_icons=true&locale=en&layout=compact"
       alt="tanimshahriar" /></p>
 
