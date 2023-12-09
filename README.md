@@ -12,7 +12,7 @@
       alt="tanimshahriar" /> </p>
 
   <p align="center"> - 🌱 I’m currently learning python **Django**</p> <br>
-  <p align="center"> - 🌱 My dream is to be a full stack developer in few years</p> <br>
+  <p align="center"> - 🌱 My dream is to be a full stack developer in a few years</p> <br>
 
  <p align="center">  - 💬 Ask me about **react, javaScript**</p> <br>
 
