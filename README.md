@@ -40,13 +40,15 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanimShahriar&card_width=1000)](https://git.io/streak-stats)
 
-<h3 align="center">Skills:</h3>
+<h3 align="center">Language Skills:</h3>  </br>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,nodejs,react,tailwind,mongodb,express" />
   </a>
-</p>
+</p> </br>
+
+<h3 align="center">Used Languages:</h3>  </br>
 
   <p><img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimshahriar&show_icons=true&locale=en&layout=compact"
