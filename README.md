@@ -31,6 +31,9 @@
         alt="tanim shahriar saikot" height="30" width="40" /></a>
   </p>
 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanimshahriar&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
         style="margin-left: 25px;"
