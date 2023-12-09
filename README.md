@@ -57,7 +57,7 @@
 
   
 
-<h3 align="center">Used Languages:</h3>  </br>
+<h3 align="center">Used Languages in my projects:</h3>  </br>
 
   <p align="center"><img align="center" width="700"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimshahriar&show_icons=true&locale=en&layout=compact"
